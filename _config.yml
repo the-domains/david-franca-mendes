@@ -1,0 +1,28 @@
+name: David França Mendes
+favicon: null
+layout_spectrum: 0.7836985096801072
+typography_spectrum: 0.1850360888056457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2718242611736059
+  lightness: 0.9667457297910005
+  saturation: 0.32196842948906124
+  rhythmicContrast: 0.21287487167865038
+purpose: []
